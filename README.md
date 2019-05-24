@@ -11,4 +11,4 @@ En esta ocasión nos enredamos durante mucho tiempo intentando hacer por nuestra
 
 <img src="https://raw.githubusercontent.com/Pachecards/Arduino-5-Interruptores/master/ArduinoEx5Prototipo.png" height = 350 weight = 350 padding = 2px>
 
-El prototipo fue pasado a versión física y tras un par de errores y correcciones acabamos la práctica. El video demostrando el funcinamiento del interuptor está puesto a continuación.
+El prototipo fue pasado a versión física y tras un par de errores y correcciones acabamos la práctica. El video demostrando el funcinamiento del interruptor está puesto <a href="https://github.com/Pachecards/Arduino-5-Interruptores/blob/master/ArduinoUnoEx5.mp4">a continuación</a>.
